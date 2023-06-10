@@ -1,5 +1,13 @@
 # Flutter practice designs
 
+### Widgets used
+
+- PageView
+- Stack
+- Column
+- Row
+- Expandable
+
 <img width="311" alt="image" src="https://github.com/MateoDev97/DesignsAppFlutter/assets/25846938/bc696777-fa1a-4254-b60b-c6f3a341ed3d">
 
 
